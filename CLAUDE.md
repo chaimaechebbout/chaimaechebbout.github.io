@@ -3,7 +3,7 @@
 Static personal portfolio, hosted on GitHub Pages. No build step, no framework.
 
 - `index.html` — the live site (served at the root of GitHub Pages).
-- `variations/` — three alternative designs (A Citron Editorial, B Moss Bento, C X-ray Rose). To switch designs, copy the chosen file over `index.html`.
+- This version leaves out the Master's degree on purpose. Do not add it back.
 
 ## Design rules
 - Palette: Tyrian purple #66023C, Citron #CAD183, moss #4F5B1F, rose #E7C3CC / #9C4C64, paper #F6F5EC. All colours are CSS variables in the `:root` block at the top of each file; edit them there.
